@@ -69,7 +69,7 @@ Data-focused developer skilled in Python & SQL, building projects on real-world 
 
 ---
 
-* LinkedIn: http://linkedin.com/in/ayushksharma
+* LinkedIn: http://linkedin.com/in/ayushkumarsharmaa
 * GitHub: https://github.com/devwithayush
 
 ---
